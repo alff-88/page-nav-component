@@ -9,5 +9,5 @@
 - [Tailwindcss](https://tailwindcss.com/)
 - [dnd kit](https://dndkit.com/)
 
-## Deploy 
-- [Vercel](https://vercel.com/)
+## Deploy with [Vercel](https://vercel.com/)
+-[DEMO LIVE](https://page-nav-component.vercel.app/)
